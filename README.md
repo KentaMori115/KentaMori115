@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **ML/Blockchain Engineer** with 5+ years of experience specializing in **Go** and **Rust** systems development. I have deep expertise in the Ethereum & Cosmos SDK ecosystems, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. I'm currently at a turning point in my career, expanding into **Decentralized AI system development**, combining my blockchain infrastructure expertise with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
+I am a **Blockchain/AI Engineer** with 5+ years of experience specializing in **Go** and **Rust** systems development. I have deep expertise in the Ethereum & Cosmos SDK ecosystems, smart contracts (EVM/WASM), systems programming, performance optimization, and high-throughput distributed systems. I'm currently at a turning point in my career, expanding into **Decentralized AI system development**, combining my blockchain infrastructure expertise with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
 
 ---
 
