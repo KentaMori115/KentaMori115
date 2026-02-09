@@ -124,3 +124,5 @@ I am a **Blockchain/AI Engineer** with 5+ years of experience specializing in **
 - Decentralized AI systems and on-chain ML inference
 - AI/ML integration with blockchain infrastructure
 - Federated learning and privacy-preserving AI on blockchain
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmihirsahu&label=Profile%20views&color=0e75b6&style=flat" alt="0xmihirsahu" /> </p>
