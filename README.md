@@ -34,6 +34,8 @@ A major achievement in this area is the design and implementation of an ultra–
 
 I am currently expanding into Decentralized AI system development, combining my blockchain infrastructure and cryptographic optimization background with cutting-edge AI/ML technologies to build the next generation of decentralized intelligent systems.
 
+Doing some experimental research on model fine-tuning espcially targeting tongyi mai z-image base model which has 6B parameters by using 1x, 4x, 8x H100 SMX with different training parameters. 
+
 ---
 
 ### 🚀 Opensource Contributions
