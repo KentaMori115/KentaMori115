@@ -8,7 +8,7 @@
 
 **AI infrastructure · GPU performance engineering · High-throughput distributed systems · Privacy-preserving compute**
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL) · [Blog / Portfolio](https://YOUR-SITE)
+[Email](mailto:kenta.mori32@gmail.com)
 
 🟢 **Open to work:** AI infrastructure, inference optimization, ML platform, and senior backend roles · Remote / YOUR-LOCATION
 
