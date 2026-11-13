@@ -10,7 +10,7 @@
 
 [Email](mailto:kenta.mori32@gmail.com)
 
-🟢 **Open to work:** AI infrastructure, inference optimization, ML platform, and senior backend roles · Remote / YOUR-LOCATION
+🟢 **Open to work:** AI infrastructure, inference optimization, ML platform, and senior backend roles · Remote / Any Location
 
 </div>
 
